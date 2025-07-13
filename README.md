@@ -1,8 +1,8 @@
-# 🎮 PlayStation Firmware Watcher Bot
+# PlayStation Firmware Watcher
 
 This is a lightweight Discord bot that monitors official PlayStation firmware pages for updates to **PS4** and **PS5**, then posts a rich embed into your configured Discord channel when a new version is detected.
 
-## 🚀 Features
+## Features
 
 - Scrapes firmware version info from [playstation.com](https://www.playstation.com)
 - Supports multiple locales (`fr-fr`, `en-us`) for fallback reliability
